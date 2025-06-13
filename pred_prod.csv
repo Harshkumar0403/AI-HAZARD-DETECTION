@@ -1,0 +1,998 @@
+ID,product-type
+TEST_1,"meat, egg and dairy products"
+TEST_2,"meat, egg and dairy products"
+TEST_3,prepared dishes and snacks
+TEST_4,"meat, egg and dairy products"
+TEST_5,ices and desserts
+TEST_6,non-alcoholic beverages
+TEST_7,prepared dishes and snacks
+TEST_8,"meat, egg and dairy products"
+TEST_9,"soups, broths, sauces and condiments"
+TEST_10,seafood
+TEST_11,"meat, egg and dairy products"
+TEST_12,prepared dishes and snacks
+TEST_13,ices and desserts
+TEST_14,ices and desserts
+TEST_15,fats and oils
+TEST_16,cereals and bakery products
+TEST_17,prepared dishes and snacks
+TEST_18,alcoholic beverages
+TEST_19,seafood
+TEST_20,cereals and bakery products
+TEST_21,"soups, broths, sauces and condiments"
+TEST_22,"soups, broths, sauces and condiments"
+TEST_23,"meat, egg and dairy products"
+TEST_24,"soups, broths, sauces and condiments"
+TEST_25,prepared dishes and snacks
+TEST_26,"soups, broths, sauces and condiments"
+TEST_27,cereals and bakery products
+TEST_28,"meat, egg and dairy products"
+TEST_29,"cocoa and cocoa preparations, coffee and tea"
+TEST_30,alcoholic beverages
+TEST_31,ices and desserts
+TEST_32,prepared dishes and snacks
+TEST_33,ices and desserts
+TEST_34,"meat, egg and dairy products"
+TEST_35,"meat, egg and dairy products"
+TEST_36,"dietetic foods, food supplements, fortified foods"
+TEST_37,confectionery
+TEST_38,cereals and bakery products
+TEST_39,cereals and bakery products
+TEST_40,herbs and spices
+TEST_41,cereals and bakery products
+TEST_42,"meat, egg and dairy products"
+TEST_43,cereals and bakery products
+TEST_44,"meat, egg and dairy products"
+TEST_45,fruits and vegetables
+TEST_46,seafood
+TEST_47,prepared dishes and snacks
+TEST_48,ices and desserts
+TEST_49,fruits and vegetables
+TEST_50,"meat, egg and dairy products"
+TEST_51,"meat, egg and dairy products"
+TEST_52,"meat, egg and dairy products"
+TEST_53,cereals and bakery products
+TEST_54,non-alcoholic beverages
+TEST_55,prepared dishes and snacks
+TEST_56,cereals and bakery products
+TEST_57,non-alcoholic beverages
+TEST_58,"meat, egg and dairy products"
+TEST_59,alcoholic beverages
+TEST_60,"meat, egg and dairy products"
+TEST_61,"meat, egg and dairy products"
+TEST_62,"meat, egg and dairy products"
+TEST_63,prepared dishes and snacks
+TEST_64,"nuts, nut products and seeds"
+TEST_65,"soups, broths, sauces and condiments"
+TEST_66,ices and desserts
+TEST_67,ices and desserts
+TEST_68,ices and desserts
+TEST_69,ices and desserts
+TEST_70,ices and desserts
+TEST_71,ices and desserts
+TEST_72,ices and desserts
+TEST_73,"meat, egg and dairy products"
+TEST_74,ices and desserts
+TEST_75,ices and desserts
+TEST_76,cereals and bakery products
+TEST_77,"nuts, nut products and seeds"
+TEST_78,"meat, egg and dairy products"
+TEST_79,"meat, egg and dairy products"
+TEST_80,ices and desserts
+TEST_81,ices and desserts
+TEST_82,fruits and vegetables
+TEST_83,ices and desserts
+TEST_84,"meat, egg and dairy products"
+TEST_85,"nuts, nut products and seeds"
+TEST_86,confectionery
+TEST_87,prepared dishes and snacks
+TEST_88,herbs and spices
+TEST_89,fruits and vegetables
+TEST_90,"meat, egg and dairy products"
+TEST_91,"meat, egg and dairy products"
+TEST_92,non-alcoholic beverages
+TEST_93,ices and desserts
+TEST_94,"meat, egg and dairy products"
+TEST_95,cereals and bakery products
+TEST_96,cereals and bakery products
+TEST_97,prepared dishes and snacks
+TEST_98,seafood
+TEST_99,prepared dishes and snacks
+TEST_100,"nuts, nut products and seeds"
+TEST_101,fats and oils
+TEST_102,"meat, egg and dairy products"
+TEST_103,ices and desserts
+TEST_104,fruits and vegetables
+TEST_105,alcoholic beverages
+TEST_106,"meat, egg and dairy products"
+TEST_107,cereals and bakery products
+TEST_108,fruits and vegetables
+TEST_109,fruits and vegetables
+TEST_110,prepared dishes and snacks
+TEST_111,prepared dishes and snacks
+TEST_112,ices and desserts
+TEST_113,seafood
+TEST_114,"meat, egg and dairy products"
+TEST_115,"meat, egg and dairy products"
+TEST_116,"meat, egg and dairy products"
+TEST_117,herbs and spices
+TEST_118,prepared dishes and snacks
+TEST_119,"meat, egg and dairy products"
+TEST_120,cereals and bakery products
+TEST_121,"meat, egg and dairy products"
+TEST_122,non-alcoholic beverages
+TEST_123,"cocoa and cocoa preparations, coffee and tea"
+TEST_124,"meat, egg and dairy products"
+TEST_125,"meat, egg and dairy products"
+TEST_126,fruits and vegetables
+TEST_127,"meat, egg and dairy products"
+TEST_128,"meat, egg and dairy products"
+TEST_129,"meat, egg and dairy products"
+TEST_130,prepared dishes and snacks
+TEST_131,"nuts, nut products and seeds"
+TEST_132,"meat, egg and dairy products"
+TEST_133,fruits and vegetables
+TEST_134,fruits and vegetables
+TEST_135,"nuts, nut products and seeds"
+TEST_136,"nuts, nut products and seeds"
+TEST_137,"meat, egg and dairy products"
+TEST_138,ices and desserts
+TEST_139,"cocoa and cocoa preparations, coffee and tea"
+TEST_140,"meat, egg and dairy products"
+TEST_141,ices and desserts
+TEST_142,fruits and vegetables
+TEST_143,prepared dishes and snacks
+TEST_144,"meat, egg and dairy products"
+TEST_145,"meat, egg and dairy products"
+TEST_146,"meat, egg and dairy products"
+TEST_147,cereals and bakery products
+TEST_148,"meat, egg and dairy products"
+TEST_149,cereals and bakery products
+TEST_150,"meat, egg and dairy products"
+TEST_151,seafood
+TEST_152,ices and desserts
+TEST_153,"cocoa and cocoa preparations, coffee and tea"
+TEST_154,"meat, egg and dairy products"
+TEST_155,"nuts, nut products and seeds"
+TEST_156,fats and oils
+TEST_157,"nuts, nut products and seeds"
+TEST_158,"nuts, nut products and seeds"
+TEST_159,"nuts, nut products and seeds"
+TEST_160,confectionery
+TEST_161,"nuts, nut products and seeds"
+TEST_162,"nuts, nut products and seeds"
+TEST_163,cereals and bakery products
+TEST_164,"nuts, nut products and seeds"
+TEST_165,"nuts, nut products and seeds"
+TEST_166,cereals and bakery products
+TEST_167,confectionery
+TEST_168,prepared dishes and snacks
+TEST_169,seafood
+TEST_170,"nuts, nut products and seeds"
+TEST_171,ices and desserts
+TEST_172,"meat, egg and dairy products"
+TEST_173,fruits and vegetables
+TEST_174,"meat, egg and dairy products"
+TEST_175,cereals and bakery products
+TEST_176,fruits and vegetables
+TEST_177,"meat, egg and dairy products"
+TEST_178,"meat, egg and dairy products"
+TEST_179,alcoholic beverages
+TEST_180,"soups, broths, sauces and condiments"
+TEST_181,"meat, egg and dairy products"
+TEST_182,"meat, egg and dairy products"
+TEST_183,ices and desserts
+TEST_184,cereals and bakery products
+TEST_185,prepared dishes and snacks
+TEST_186,herbs and spices
+TEST_187,fruits and vegetables
+TEST_188,"meat, egg and dairy products"
+TEST_189,"meat, egg and dairy products"
+TEST_190,"meat, egg and dairy products"
+TEST_191,prepared dishes and snacks
+TEST_192,cereals and bakery products
+TEST_193,"meat, egg and dairy products"
+TEST_194,"meat, egg and dairy products"
+TEST_195,"nuts, nut products and seeds"
+TEST_196,"nuts, nut products and seeds"
+TEST_197,non-alcoholic beverages
+TEST_198,"meat, egg and dairy products"
+TEST_199,"meat, egg and dairy products"
+TEST_200,seafood
+TEST_201,"meat, egg and dairy products"
+TEST_202,"meat, egg and dairy products"
+TEST_203,"meat, egg and dairy products"
+TEST_204,cereals and bakery products
+TEST_205,"meat, egg and dairy products"
+TEST_206,seafood
+TEST_207,"nuts, nut products and seeds"
+TEST_208,"meat, egg and dairy products"
+TEST_209,"meat, egg and dairy products"
+TEST_210,prepared dishes and snacks
+TEST_211,"meat, egg and dairy products"
+TEST_212,"soups, broths, sauces and condiments"
+TEST_213,"meat, egg and dairy products"
+TEST_214,"meat, egg and dairy products"
+TEST_215,"meat, egg and dairy products"
+TEST_216,fruits and vegetables
+TEST_217,"soups, broths, sauces and condiments"
+TEST_218,"meat, egg and dairy products"
+TEST_219,fruits and vegetables
+TEST_220,"meat, egg and dairy products"
+TEST_221,prepared dishes and snacks
+TEST_222,"meat, egg and dairy products"
+TEST_223,"meat, egg and dairy products"
+TEST_224,other food product / mixed
+TEST_225,alcoholic beverages
+TEST_226,"meat, egg and dairy products"
+TEST_227,ices and desserts
+TEST_228,ices and desserts
+TEST_229,"meat, egg and dairy products"
+TEST_230,fruits and vegetables
+TEST_231,"meat, egg and dairy products"
+TEST_232,fruits and vegetables
+TEST_233,"meat, egg and dairy products"
+TEST_234,"meat, egg and dairy products"
+TEST_235,"nuts, nut products and seeds"
+TEST_236,"soups, broths, sauces and condiments"
+TEST_237,fruits and vegetables
+TEST_238,seafood
+TEST_239,"meat, egg and dairy products"
+TEST_240,"meat, egg and dairy products"
+TEST_241,alcoholic beverages
+TEST_242,alcoholic beverages
+TEST_243,prepared dishes and snacks
+TEST_244,"dietetic foods, food supplements, fortified foods"
+TEST_245,"cocoa and cocoa preparations, coffee and tea"
+TEST_246,seafood
+TEST_247,"dietetic foods, food supplements, fortified foods"
+TEST_248,"meat, egg and dairy products"
+TEST_249,"dietetic foods, food supplements, fortified foods"
+TEST_250,alcoholic beverages
+TEST_251,herbs and spices
+TEST_252,"meat, egg and dairy products"
+TEST_253,"meat, egg and dairy products"
+TEST_254,"meat, egg and dairy products"
+TEST_255,herbs and spices
+TEST_256,prepared dishes and snacks
+TEST_257,"meat, egg and dairy products"
+TEST_258,fruits and vegetables
+TEST_259,alcoholic beverages
+TEST_260,herbs and spices
+TEST_261,fruits and vegetables
+TEST_262,"meat, egg and dairy products"
+TEST_263,herbs and spices
+TEST_264,"meat, egg and dairy products"
+TEST_265,"meat, egg and dairy products"
+TEST_266,"meat, egg and dairy products"
+TEST_267,cereals and bakery products
+TEST_268,fruits and vegetables
+TEST_269,"meat, egg and dairy products"
+TEST_270,"soups, broths, sauces and condiments"
+TEST_271,fruits and vegetables
+TEST_272,"meat, egg and dairy products"
+TEST_273,"meat, egg and dairy products"
+TEST_274,"soups, broths, sauces and condiments"
+TEST_275,fats and oils
+TEST_276,"meat, egg and dairy products"
+TEST_277,"meat, egg and dairy products"
+TEST_278,non-alcoholic beverages
+TEST_279,herbs and spices
+TEST_280,"cocoa and cocoa preparations, coffee and tea"
+TEST_281,"meat, egg and dairy products"
+TEST_282,"meat, egg and dairy products"
+TEST_283,"meat, egg and dairy products"
+TEST_284,non-alcoholic beverages
+TEST_285,fruits and vegetables
+TEST_286,fruits and vegetables
+TEST_287,"meat, egg and dairy products"
+TEST_288,"meat, egg and dairy products"
+TEST_289,"meat, egg and dairy products"
+TEST_290,"meat, egg and dairy products"
+TEST_291,cereals and bakery products
+TEST_292,"meat, egg and dairy products"
+TEST_293,"meat, egg and dairy products"
+TEST_294,"meat, egg and dairy products"
+TEST_295,cereals and bakery products
+TEST_296,cereals and bakery products
+TEST_297,non-alcoholic beverages
+TEST_298,herbs and spices
+TEST_299,"meat, egg and dairy products"
+TEST_300,cereals and bakery products
+TEST_301,fruits and vegetables
+TEST_302,cereals and bakery products
+TEST_303,other food product / mixed
+TEST_304,fruits and vegetables
+TEST_305,"meat, egg and dairy products"
+TEST_306,cereals and bakery products
+TEST_307,"meat, egg and dairy products"
+TEST_308,seafood
+TEST_309,cereals and bakery products
+TEST_310,cereals and bakery products
+TEST_311,"meat, egg and dairy products"
+TEST_312,cereals and bakery products
+TEST_313,fruits and vegetables
+TEST_314,"cocoa and cocoa preparations, coffee and tea"
+TEST_315,"cocoa and cocoa preparations, coffee and tea"
+TEST_316,"nuts, nut products and seeds"
+TEST_317,cereals and bakery products
+TEST_318,cereals and bakery products
+TEST_319,"nuts, nut products and seeds"
+TEST_320,"meat, egg and dairy products"
+TEST_321,fruits and vegetables
+TEST_322,fruits and vegetables
+TEST_323,"meat, egg and dairy products"
+TEST_324,fruits and vegetables
+TEST_325,"soups, broths, sauces and condiments"
+TEST_326,"meat, egg and dairy products"
+TEST_327,cereals and bakery products
+TEST_328,"soups, broths, sauces and condiments"
+TEST_329,cereals and bakery products
+TEST_330,"nuts, nut products and seeds"
+TEST_331,"dietetic foods, food supplements, fortified foods"
+TEST_332,cereals and bakery products
+TEST_333,prepared dishes and snacks
+TEST_334,"meat, egg and dairy products"
+TEST_335,fruits and vegetables
+TEST_336,fruits and vegetables
+TEST_337,fruits and vegetables
+TEST_338,cereals and bakery products
+TEST_339,"meat, egg and dairy products"
+TEST_340,prepared dishes and snacks
+TEST_341,fruits and vegetables
+TEST_342,"meat, egg and dairy products"
+TEST_343,cereals and bakery products
+TEST_344,"nuts, nut products and seeds"
+TEST_345,cereals and bakery products
+TEST_346,"dietetic foods, food supplements, fortified foods"
+TEST_347,prepared dishes and snacks
+TEST_348,"meat, egg and dairy products"
+TEST_349,"nuts, nut products and seeds"
+TEST_350,"nuts, nut products and seeds"
+TEST_351,"dietetic foods, food supplements, fortified foods"
+TEST_352,"nuts, nut products and seeds"
+TEST_353,"meat, egg and dairy products"
+TEST_354,"meat, egg and dairy products"
+TEST_355,prepared dishes and snacks
+TEST_356,fruits and vegetables
+TEST_357,"nuts, nut products and seeds"
+TEST_358,prepared dishes and snacks
+TEST_359,"cocoa and cocoa preparations, coffee and tea"
+TEST_360,"meat, egg and dairy products"
+TEST_361,cereals and bakery products
+TEST_362,prepared dishes and snacks
+TEST_363,"meat, egg and dairy products"
+TEST_364,"meat, egg and dairy products"
+TEST_365,cereals and bakery products
+TEST_366,seafood
+TEST_367,seafood
+TEST_368,fruits and vegetables
+TEST_369,"meat, egg and dairy products"
+TEST_370,cereals and bakery products
+TEST_371,ices and desserts
+TEST_372,herbs and spices
+TEST_373,cereals and bakery products
+TEST_374,"meat, egg and dairy products"
+TEST_375,ices and desserts
+TEST_376,"nuts, nut products and seeds"
+TEST_377,confectionery
+TEST_378,prepared dishes and snacks
+TEST_379,"nuts, nut products and seeds"
+TEST_380,ices and desserts
+TEST_381,"meat, egg and dairy products"
+TEST_382,alcoholic beverages
+TEST_383,"cocoa and cocoa preparations, coffee and tea"
+TEST_384,cereals and bakery products
+TEST_385,"meat, egg and dairy products"
+TEST_386,"cocoa and cocoa preparations, coffee and tea"
+TEST_387,"meat, egg and dairy products"
+TEST_388,seafood
+TEST_389,"meat, egg and dairy products"
+TEST_390,other food product / mixed
+TEST_391,"meat, egg and dairy products"
+TEST_392,"meat, egg and dairy products"
+TEST_393,"soups, broths, sauces and condiments"
+TEST_394,"meat, egg and dairy products"
+TEST_395,"soups, broths, sauces and condiments"
+TEST_396,fruits and vegetables
+TEST_397,seafood
+TEST_398,"meat, egg and dairy products"
+TEST_399,"meat, egg and dairy products"
+TEST_400,cereals and bakery products
+TEST_401,prepared dishes and snacks
+TEST_402,prepared dishes and snacks
+TEST_403,cereals and bakery products
+TEST_404,"nuts, nut products and seeds"
+TEST_405,seafood
+TEST_406,fruits and vegetables
+TEST_407,"soups, broths, sauces and condiments"
+TEST_408,"meat, egg and dairy products"
+TEST_409,prepared dishes and snacks
+TEST_410,"meat, egg and dairy products"
+TEST_411,cereals and bakery products
+TEST_412,prepared dishes and snacks
+TEST_413,cereals and bakery products
+TEST_414,prepared dishes and snacks
+TEST_415,prepared dishes and snacks
+TEST_416,alcoholic beverages
+TEST_417,"meat, egg and dairy products"
+TEST_418,cereals and bakery products
+TEST_419,"nuts, nut products and seeds"
+TEST_420,"cocoa and cocoa preparations, coffee and tea"
+TEST_421,confectionery
+TEST_422,"soups, broths, sauces and condiments"
+TEST_423,"soups, broths, sauces and condiments"
+TEST_424,"meat, egg and dairy products"
+TEST_425,fruits and vegetables
+TEST_426,cereals and bakery products
+TEST_427,"cocoa and cocoa preparations, coffee and tea"
+TEST_428,fruits and vegetables
+TEST_429,"meat, egg and dairy products"
+TEST_430,cereals and bakery products
+TEST_431,fruits and vegetables
+TEST_432,"soups, broths, sauces and condiments"
+TEST_433,"meat, egg and dairy products"
+TEST_434,"meat, egg and dairy products"
+TEST_435,cereals and bakery products
+TEST_436,"cocoa and cocoa preparations, coffee and tea"
+TEST_437,"cocoa and cocoa preparations, coffee and tea"
+TEST_438,ices and desserts
+TEST_439,fruits and vegetables
+TEST_440,seafood
+TEST_441,"meat, egg and dairy products"
+TEST_442,cereals and bakery products
+TEST_443,"cocoa and cocoa preparations, coffee and tea"
+TEST_444,"meat, egg and dairy products"
+TEST_445,cereals and bakery products
+TEST_446,"meat, egg and dairy products"
+TEST_447,cereals and bakery products
+TEST_448,cereals and bakery products
+TEST_449,fruits and vegetables
+TEST_450,"meat, egg and dairy products"
+TEST_451,"meat, egg and dairy products"
+TEST_452,"meat, egg and dairy products"
+TEST_453,seafood
+TEST_454,seafood
+TEST_455,cereals and bakery products
+TEST_456,"meat, egg and dairy products"
+TEST_457,"dietetic foods, food supplements, fortified foods"
+TEST_458,cereals and bakery products
+TEST_459,"meat, egg and dairy products"
+TEST_460,"meat, egg and dairy products"
+TEST_461,"meat, egg and dairy products"
+TEST_462,"meat, egg and dairy products"
+TEST_463,fruits and vegetables
+TEST_464,"meat, egg and dairy products"
+TEST_465,"meat, egg and dairy products"
+TEST_466,fruits and vegetables
+TEST_467,fruits and vegetables
+TEST_468,"cocoa and cocoa preparations, coffee and tea"
+TEST_469,seafood
+TEST_470,"dietetic foods, food supplements, fortified foods"
+TEST_471,"meat, egg and dairy products"
+TEST_472,"meat, egg and dairy products"
+TEST_473,"cocoa and cocoa preparations, coffee and tea"
+TEST_474,seafood
+TEST_475,fruits and vegetables
+TEST_476,"meat, egg and dairy products"
+TEST_477,cereals and bakery products
+TEST_478,fruits and vegetables
+TEST_479,cereals and bakery products
+TEST_480,"meat, egg and dairy products"
+TEST_481,prepared dishes and snacks
+TEST_482,seafood
+TEST_483,herbs and spices
+TEST_484,prepared dishes and snacks
+TEST_485,seafood
+TEST_486,"meat, egg and dairy products"
+TEST_487,confectionery
+TEST_488,prepared dishes and snacks
+TEST_489,"meat, egg and dairy products"
+TEST_490,cereals and bakery products
+TEST_491,"dietetic foods, food supplements, fortified foods"
+TEST_492,"meat, egg and dairy products"
+TEST_493,alcoholic beverages
+TEST_494,"meat, egg and dairy products"
+TEST_495,seafood
+TEST_496,"meat, egg and dairy products"
+TEST_497,fruits and vegetables
+TEST_498,prepared dishes and snacks
+TEST_499,alcoholic beverages
+TEST_500,cereals and bakery products
+TEST_501,"cocoa and cocoa preparations, coffee and tea"
+TEST_502,herbs and spices
+TEST_503,"meat, egg and dairy products"
+TEST_504,"meat, egg and dairy products"
+TEST_505,ices and desserts
+TEST_506,cereals and bakery products
+TEST_507,"soups, broths, sauces and condiments"
+TEST_508,"meat, egg and dairy products"
+TEST_509,"meat, egg and dairy products"
+TEST_510,"meat, egg and dairy products"
+TEST_511,fruits and vegetables
+TEST_512,other food product / mixed
+TEST_513,"meat, egg and dairy products"
+TEST_514,herbs and spices
+TEST_515,prepared dishes and snacks
+TEST_516,"meat, egg and dairy products"
+TEST_517,"cocoa and cocoa preparations, coffee and tea"
+TEST_518,"meat, egg and dairy products"
+TEST_519,confectionery
+TEST_520,seafood
+TEST_521,prepared dishes and snacks
+TEST_522,"dietetic foods, food supplements, fortified foods"
+TEST_523,confectionery
+TEST_524,"meat, egg and dairy products"
+TEST_525,"dietetic foods, food supplements, fortified foods"
+TEST_526,herbs and spices
+TEST_527,herbs and spices
+TEST_528,"meat, egg and dairy products"
+TEST_529,"meat, egg and dairy products"
+TEST_530,"meat, egg and dairy products"
+TEST_531,"meat, egg and dairy products"
+TEST_532,"meat, egg and dairy products"
+TEST_533,prepared dishes and snacks
+TEST_534,"meat, egg and dairy products"
+TEST_535,"meat, egg and dairy products"
+TEST_536,"soups, broths, sauces and condiments"
+TEST_537,"soups, broths, sauces and condiments"
+TEST_538,ices and desserts
+TEST_539,"soups, broths, sauces and condiments"
+TEST_540,fruits and vegetables
+TEST_541,"soups, broths, sauces and condiments"
+TEST_542,"meat, egg and dairy products"
+TEST_543,prepared dishes and snacks
+TEST_544,cereals and bakery products
+TEST_545,fruits and vegetables
+TEST_546,"cocoa and cocoa preparations, coffee and tea"
+TEST_547,"dietetic foods, food supplements, fortified foods"
+TEST_548,cereals and bakery products
+TEST_549,"meat, egg and dairy products"
+TEST_550,fruits and vegetables
+TEST_551,"soups, broths, sauces and condiments"
+TEST_552,"dietetic foods, food supplements, fortified foods"
+TEST_553,prepared dishes and snacks
+TEST_554,cereals and bakery products
+TEST_555,fats and oils
+TEST_556,"meat, egg and dairy products"
+TEST_557,seafood
+TEST_558,prepared dishes and snacks
+TEST_559,prepared dishes and snacks
+TEST_560,"meat, egg and dairy products"
+TEST_561,"meat, egg and dairy products"
+TEST_562,prepared dishes and snacks
+TEST_563,sugars and syrups
+TEST_564,fruits and vegetables
+TEST_565,ices and desserts
+TEST_566,ices and desserts
+TEST_567,"cocoa and cocoa preparations, coffee and tea"
+TEST_568,"meat, egg and dairy products"
+TEST_569,fruits and vegetables
+TEST_570,"meat, egg and dairy products"
+TEST_571,confectionery
+TEST_572,"meat, egg and dairy products"
+TEST_573,non-alcoholic beverages
+TEST_574,"meat, egg and dairy products"
+TEST_575,"meat, egg and dairy products"
+TEST_576,seafood
+TEST_577,"meat, egg and dairy products"
+TEST_578,"soups, broths, sauces and condiments"
+TEST_579,ices and desserts
+TEST_580,confectionery
+TEST_581,"nuts, nut products and seeds"
+TEST_582,non-alcoholic beverages
+TEST_583,fruits and vegetables
+TEST_584,"cocoa and cocoa preparations, coffee and tea"
+TEST_585,"meat, egg and dairy products"
+TEST_586,fruits and vegetables
+TEST_587,fruits and vegetables
+TEST_588,herbs and spices
+TEST_589,"nuts, nut products and seeds"
+TEST_590,"meat, egg and dairy products"
+TEST_591,"dietetic foods, food supplements, fortified foods"
+TEST_592,"meat, egg and dairy products"
+TEST_593,"meat, egg and dairy products"
+TEST_594,"meat, egg and dairy products"
+TEST_595,"meat, egg and dairy products"
+TEST_596,other food product / mixed
+TEST_597,"cocoa and cocoa preparations, coffee and tea"
+TEST_598,"dietetic foods, food supplements, fortified foods"
+TEST_599,cereals and bakery products
+TEST_600,cereals and bakery products
+TEST_601,"nuts, nut products and seeds"
+TEST_602,confectionery
+TEST_603,"meat, egg and dairy products"
+TEST_604,fruits and vegetables
+TEST_605,"nuts, nut products and seeds"
+TEST_606,cereals and bakery products
+TEST_607,alcoholic beverages
+TEST_608,"meat, egg and dairy products"
+TEST_609,seafood
+TEST_610,"meat, egg and dairy products"
+TEST_611,cereals and bakery products
+TEST_612,cereals and bakery products
+TEST_613,seafood
+TEST_614,"meat, egg and dairy products"
+TEST_615,confectionery
+TEST_616,"dietetic foods, food supplements, fortified foods"
+TEST_617,"meat, egg and dairy products"
+TEST_618,"dietetic foods, food supplements, fortified foods"
+TEST_619,"cocoa and cocoa preparations, coffee and tea"
+TEST_620,herbs and spices
+TEST_621,"soups, broths, sauces and condiments"
+TEST_622,fats and oils
+TEST_623,cereals and bakery products
+TEST_624,non-alcoholic beverages
+TEST_625,fruits and vegetables
+TEST_626,"meat, egg and dairy products"
+TEST_627,"cocoa and cocoa preparations, coffee and tea"
+TEST_628,seafood
+TEST_629,"cocoa and cocoa preparations, coffee and tea"
+TEST_630,"dietetic foods, food supplements, fortified foods"
+TEST_631,confectionery
+TEST_632,"meat, egg and dairy products"
+TEST_633,cereals and bakery products
+TEST_634,"meat, egg and dairy products"
+TEST_635,"nuts, nut products and seeds"
+TEST_636,prepared dishes and snacks
+TEST_637,"meat, egg and dairy products"
+TEST_638,"meat, egg and dairy products"
+TEST_639,"meat, egg and dairy products"
+TEST_640,"meat, egg and dairy products"
+TEST_641,"cocoa and cocoa preparations, coffee and tea"
+TEST_642,cereals and bakery products
+TEST_643,"nuts, nut products and seeds"
+TEST_644,"cocoa and cocoa preparations, coffee and tea"
+TEST_645,cereals and bakery products
+TEST_646,"meat, egg and dairy products"
+TEST_647,"meat, egg and dairy products"
+TEST_648,"meat, egg and dairy products"
+TEST_649,fruits and vegetables
+TEST_650,confectionery
+TEST_651,"meat, egg and dairy products"
+TEST_652,"meat, egg and dairy products"
+TEST_653,fruits and vegetables
+TEST_654,prepared dishes and snacks
+TEST_655,"meat, egg and dairy products"
+TEST_656,cereals and bakery products
+TEST_657,cereals and bakery products
+TEST_658,"cocoa and cocoa preparations, coffee and tea"
+TEST_659,prepared dishes and snacks
+TEST_660,"dietetic foods, food supplements, fortified foods"
+TEST_661,ices and desserts
+TEST_662,"cocoa and cocoa preparations, coffee and tea"
+TEST_663,herbs and spices
+TEST_664,cereals and bakery products
+TEST_665,"meat, egg and dairy products"
+TEST_666,herbs and spices
+TEST_667,seafood
+TEST_668,"meat, egg and dairy products"
+TEST_669,prepared dishes and snacks
+TEST_670,ices and desserts
+TEST_671,"cocoa and cocoa preparations, coffee and tea"
+TEST_672,fruits and vegetables
+TEST_673,seafood
+TEST_674,fruits and vegetables
+TEST_675,seafood
+TEST_676,"meat, egg and dairy products"
+TEST_677,cereals and bakery products
+TEST_678,seafood
+TEST_679,herbs and spices
+TEST_680,"meat, egg and dairy products"
+TEST_681,seafood
+TEST_682,"meat, egg and dairy products"
+TEST_683,"cocoa and cocoa preparations, coffee and tea"
+TEST_684,seafood
+TEST_685,non-alcoholic beverages
+TEST_686,"meat, egg and dairy products"
+TEST_687,herbs and spices
+TEST_688,"meat, egg and dairy products"
+TEST_689,cereals and bakery products
+TEST_690,"cocoa and cocoa preparations, coffee and tea"
+TEST_691,"meat, egg and dairy products"
+TEST_692,"meat, egg and dairy products"
+TEST_693,"meat, egg and dairy products"
+TEST_694,prepared dishes and snacks
+TEST_695,"meat, egg and dairy products"
+TEST_696,prepared dishes and snacks
+TEST_697,ices and desserts
+TEST_698,fruits and vegetables
+TEST_699,"meat, egg and dairy products"
+TEST_700,"meat, egg and dairy products"
+TEST_701,"meat, egg and dairy products"
+TEST_702,"meat, egg and dairy products"
+TEST_703,"meat, egg and dairy products"
+TEST_704,"meat, egg and dairy products"
+TEST_705,prepared dishes and snacks
+TEST_706,other food product / mixed
+TEST_707,"meat, egg and dairy products"
+TEST_708,"meat, egg and dairy products"
+TEST_709,"meat, egg and dairy products"
+TEST_710,confectionery
+TEST_711,"soups, broths, sauces and condiments"
+TEST_712,"meat, egg and dairy products"
+TEST_713,fruits and vegetables
+TEST_714,"meat, egg and dairy products"
+TEST_715,"meat, egg and dairy products"
+TEST_716,"meat, egg and dairy products"
+TEST_717,seafood
+TEST_718,"soups, broths, sauces and condiments"
+TEST_719,"meat, egg and dairy products"
+TEST_720,cereals and bakery products
+TEST_721,"meat, egg and dairy products"
+TEST_722,"meat, egg and dairy products"
+TEST_723,"meat, egg and dairy products"
+TEST_724,cereals and bakery products
+TEST_725,"meat, egg and dairy products"
+TEST_726,"cocoa and cocoa preparations, coffee and tea"
+TEST_727,prepared dishes and snacks
+TEST_728,fruits and vegetables
+TEST_729,"meat, egg and dairy products"
+TEST_730,prepared dishes and snacks
+TEST_731,cereals and bakery products
+TEST_732,confectionery
+TEST_733,"dietetic foods, food supplements, fortified foods"
+TEST_734,"meat, egg and dairy products"
+TEST_735,"soups, broths, sauces and condiments"
+TEST_736,cereals and bakery products
+TEST_737,fruits and vegetables
+TEST_738,"meat, egg and dairy products"
+TEST_739,prepared dishes and snacks
+TEST_740,"soups, broths, sauces and condiments"
+TEST_741,fruits and vegetables
+TEST_742,"meat, egg and dairy products"
+TEST_743,"soups, broths, sauces and condiments"
+TEST_744,non-alcoholic beverages
+TEST_745,fruits and vegetables
+TEST_746,seafood
+TEST_747,seafood
+TEST_748,other food product / mixed
+TEST_749,"cocoa and cocoa preparations, coffee and tea"
+TEST_750,fruits and vegetables
+TEST_751,prepared dishes and snacks
+TEST_752,seafood
+TEST_753,fruits and vegetables
+TEST_754,seafood
+TEST_755,ices and desserts
+TEST_756,prepared dishes and snacks
+TEST_757,cereals and bakery products
+TEST_758,cereals and bakery products
+TEST_759,"soups, broths, sauces and condiments"
+TEST_760,prepared dishes and snacks
+TEST_761,"nuts, nut products and seeds"
+TEST_762,"meat, egg and dairy products"
+TEST_763,fruits and vegetables
+TEST_764,"meat, egg and dairy products"
+TEST_765,"nuts, nut products and seeds"
+TEST_766,cereals and bakery products
+TEST_767,ices and desserts
+TEST_768,prepared dishes and snacks
+TEST_769,"soups, broths, sauces and condiments"
+TEST_770,"meat, egg and dairy products"
+TEST_771,"soups, broths, sauces and condiments"
+TEST_772,cereals and bakery products
+TEST_773,seafood
+TEST_774,"meat, egg and dairy products"
+TEST_775,fruits and vegetables
+TEST_776,ices and desserts
+TEST_777,seafood
+TEST_778,"soups, broths, sauces and condiments"
+TEST_779,"meat, egg and dairy products"
+TEST_780,prepared dishes and snacks
+TEST_781,confectionery
+TEST_782,"meat, egg and dairy products"
+TEST_783,fruits and vegetables
+TEST_784,fruits and vegetables
+TEST_785,"meat, egg and dairy products"
+TEST_786,fruits and vegetables
+TEST_787,fruits and vegetables
+TEST_788,confectionery
+TEST_789,"soups, broths, sauces and condiments"
+TEST_790,"meat, egg and dairy products"
+TEST_791,cereals and bakery products
+TEST_792,"meat, egg and dairy products"
+TEST_793,confectionery
+TEST_794,"dietetic foods, food supplements, fortified foods"
+TEST_795,cereals and bakery products
+TEST_796,"meat, egg and dairy products"
+TEST_797,"meat, egg and dairy products"
+TEST_798,cereals and bakery products
+TEST_799,cereals and bakery products
+TEST_800,seafood
+TEST_801,"meat, egg and dairy products"
+TEST_802,"soups, broths, sauces and condiments"
+TEST_803,"meat, egg and dairy products"
+TEST_804,"meat, egg and dairy products"
+TEST_805,food additives and flavourings
+TEST_806,fruits and vegetables
+TEST_807,fruits and vegetables
+TEST_808,confectionery
+TEST_809,cereals and bakery products
+TEST_810,seafood
+TEST_811,alcoholic beverages
+TEST_812,prepared dishes and snacks
+TEST_813,"meat, egg and dairy products"
+TEST_814,cereals and bakery products
+TEST_815,prepared dishes and snacks
+TEST_816,"meat, egg and dairy products"
+TEST_817,alcoholic beverages
+TEST_818,"dietetic foods, food supplements, fortified foods"
+TEST_819,"dietetic foods, food supplements, fortified foods"
+TEST_820,prepared dishes and snacks
+TEST_821,fruits and vegetables
+TEST_822,cereals and bakery products
+TEST_823,cereals and bakery products
+TEST_824,"nuts, nut products and seeds"
+TEST_825,fruits and vegetables
+TEST_826,cereals and bakery products
+TEST_827,fruits and vegetables
+TEST_828,fruits and vegetables
+TEST_829,"meat, egg and dairy products"
+TEST_830,"nuts, nut products and seeds"
+TEST_831,"cocoa and cocoa preparations, coffee and tea"
+TEST_832,"soups, broths, sauces and condiments"
+TEST_833,"meat, egg and dairy products"
+TEST_834,cereals and bakery products
+TEST_835,seafood
+TEST_836,cereals and bakery products
+TEST_837,seafood
+TEST_838,cereals and bakery products
+TEST_839,"dietetic foods, food supplements, fortified foods"
+TEST_840,seafood
+TEST_841,fruits and vegetables
+TEST_842,confectionery
+TEST_843,"meat, egg and dairy products"
+TEST_844,"soups, broths, sauces and condiments"
+TEST_845,fruits and vegetables
+TEST_846,"dietetic foods, food supplements, fortified foods"
+TEST_847,"meat, egg and dairy products"
+TEST_848,"dietetic foods, food supplements, fortified foods"
+TEST_849,cereals and bakery products
+TEST_850,"cocoa and cocoa preparations, coffee and tea"
+TEST_851,"meat, egg and dairy products"
+TEST_852,cereals and bakery products
+TEST_853,"meat, egg and dairy products"
+TEST_854,seafood
+TEST_855,confectionery
+TEST_856,"cocoa and cocoa preparations, coffee and tea"
+TEST_857,cereals and bakery products
+TEST_858,fruits and vegetables
+TEST_859,"meat, egg and dairy products"
+TEST_860,fruits and vegetables
+TEST_861,"soups, broths, sauces and condiments"
+TEST_862,cereals and bakery products
+TEST_863,seafood
+TEST_864,"meat, egg and dairy products"
+TEST_865,"dietetic foods, food supplements, fortified foods"
+TEST_866,"meat, egg and dairy products"
+TEST_867,fruits and vegetables
+TEST_868,cereals and bakery products
+TEST_869,"nuts, nut products and seeds"
+TEST_870,"nuts, nut products and seeds"
+TEST_871,cereals and bakery products
+TEST_872,"meat, egg and dairy products"
+TEST_873,alcoholic beverages
+TEST_874,prepared dishes and snacks
+TEST_875,"cocoa and cocoa preparations, coffee and tea"
+TEST_876,"nuts, nut products and seeds"
+TEST_877,cereals and bakery products
+TEST_878,prepared dishes and snacks
+TEST_879,cereals and bakery products
+TEST_880,prepared dishes and snacks
+TEST_881,cereals and bakery products
+TEST_882,prepared dishes and snacks
+TEST_883,seafood
+TEST_884,herbs and spices
+TEST_885,"meat, egg and dairy products"
+TEST_886,pet feed
+TEST_887,fruits and vegetables
+TEST_888,seafood
+TEST_889,prepared dishes and snacks
+TEST_890,ices and desserts
+TEST_891,herbs and spices
+TEST_892,fruits and vegetables
+TEST_893,"meat, egg and dairy products"
+TEST_894,prepared dishes and snacks
+TEST_895,confectionery
+TEST_896,"meat, egg and dairy products"
+TEST_897,fruits and vegetables
+TEST_898,herbs and spices
+TEST_899,pet feed
+TEST_900,prepared dishes and snacks
+TEST_901,seafood
+TEST_902,"meat, egg and dairy products"
+TEST_903,"dietetic foods, food supplements, fortified foods"
+TEST_904,cereals and bakery products
+TEST_905,fruits and vegetables
+TEST_906,cereals and bakery products
+TEST_907,"dietetic foods, food supplements, fortified foods"
+TEST_908,other food product / mixed
+TEST_909,cereals and bakery products
+TEST_910,other food product / mixed
+TEST_911,"soups, broths, sauces and condiments"
+TEST_912,prepared dishes and snacks
+TEST_913,prepared dishes and snacks
+TEST_914,prepared dishes and snacks
+TEST_915,seafood
+TEST_916,other food product / mixed
+TEST_917,non-alcoholic beverages
+TEST_918,non-alcoholic beverages
+TEST_919,"meat, egg and dairy products"
+TEST_920,seafood
+TEST_921,fruits and vegetables
+TEST_922,ices and desserts
+TEST_923,seafood
+TEST_924,fruits and vegetables
+TEST_925,seafood
+TEST_926,prepared dishes and snacks
+TEST_927,"soups, broths, sauces and condiments"
+TEST_928,fruits and vegetables
+TEST_929,"dietetic foods, food supplements, fortified foods"
+TEST_930,cereals and bakery products
+TEST_931,fruits and vegetables
+TEST_932,prepared dishes and snacks
+TEST_933,"meat, egg and dairy products"
+TEST_934,"cocoa and cocoa preparations, coffee and tea"
+TEST_935,"dietetic foods, food supplements, fortified foods"
+TEST_936,fruits and vegetables
+TEST_937,"meat, egg and dairy products"
+TEST_938,"nuts, nut products and seeds"
+TEST_939,other food product / mixed
+TEST_940,seafood
+TEST_941,seafood
+TEST_942,"cocoa and cocoa preparations, coffee and tea"
+TEST_943,cereals and bakery products
+TEST_944,cereals and bakery products
+TEST_945,"nuts, nut products and seeds"
+TEST_946,cereals and bakery products
+TEST_947,seafood
+TEST_948,"meat, egg and dairy products"
+TEST_949,"meat, egg and dairy products"
+TEST_950,fruits and vegetables
+TEST_951,"cocoa and cocoa preparations, coffee and tea"
+TEST_952,"meat, egg and dairy products"
+TEST_953,fruits and vegetables
+TEST_954,confectionery
+TEST_955,"meat, egg and dairy products"
+TEST_956,"nuts, nut products and seeds"
+TEST_957,fruits and vegetables
+TEST_958,fruits and vegetables
+TEST_959,fruits and vegetables
+TEST_960,"meat, egg and dairy products"
+TEST_961,seafood
+TEST_962,confectionery
+TEST_963,non-alcoholic beverages
+TEST_964,cereals and bakery products
+TEST_965,seafood
+TEST_966,"nuts, nut products and seeds"
+TEST_967,confectionery
+TEST_968,fruits and vegetables
+TEST_969,"nuts, nut products and seeds"
+TEST_970,other food product / mixed
+TEST_971,"soups, broths, sauces and condiments"
+TEST_972,seafood
+TEST_973,"meat, egg and dairy products"
+TEST_974,"meat, egg and dairy products"
+TEST_975,"soups, broths, sauces and condiments"
+TEST_976,"nuts, nut products and seeds"
+TEST_977,"nuts, nut products and seeds"
+TEST_978,"nuts, nut products and seeds"
+TEST_979,ices and desserts
+TEST_980,fruits and vegetables
+TEST_981,"nuts, nut products and seeds"
+TEST_982,"soups, broths, sauces and condiments"
+TEST_983,seafood
+TEST_984,"meat, egg and dairy products"
+TEST_985,ices and desserts
+TEST_986,prepared dishes and snacks
+TEST_987,prepared dishes and snacks
+TEST_988,"meat, egg and dairy products"
+TEST_989,honey and royal jelly
+TEST_990,herbs and spices
+TEST_991,cereals and bakery products
+TEST_992,"cocoa and cocoa preparations, coffee and tea"
+TEST_993,"meat, egg and dairy products"
+TEST_994,herbs and spices
+TEST_995,seafood
+TEST_996,confectionery
+TEST_997,"cocoa and cocoa preparations, coffee and tea"
